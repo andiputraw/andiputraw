@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+2024 Project Todo List
+- Music Player (tauri + svelte) 🟡
+- Text editor (c/c++) 🔴
+- Virtual Machine (c/C++) 🔴
+- Compiler (rust) 🔴
+
+🟢 = Done
+🟡 = In Progress
+🔴 = Not Starting
 
 ![andiputraw](https://github-readme-stats.vercel.app/api?username=andiputraw&show_icons=true&theme=radical)
 ![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=andiputraw&layout=compact)
