@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 2024 Project Todo List
-- Music Player (tauri + svelte) 🟡
+- Music Player ~~(tauri + svelte)~~ (c | rust + sdl) 🟡
 - Text editor (c/c++) 🔴
 - Virtual Machine (c/C++) 🔴
 - Compiler (rust) 🔴
