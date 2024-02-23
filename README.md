@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Music Player ~~(tauri + svelte)~~ (c | rust + sdl) 🟡
 - Text editor (c/c++) 🔴
 - Virtual Machine (c/C++) 🔴
-- Compiler (rust) 🔴
+- Compiler (rust) golang + QBE 🟡
 
 🟢 = Done
 🟡 = In Progress
