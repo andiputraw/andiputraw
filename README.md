@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 2024 Project Todo List
-- Music Player (zig + raylib) 🟡
+- Music Player (zig) 🟡
 - Text editor (c/c++) 🔴
 - Virtual Machine (c/C++) 🔴
 - Compiler golang + QBE 🟡
