@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-2024 Project Todo List
+~~2024~~ 2025 Project Todo List
 - Music Player (zig) 🟡
-- Text editor (c/c++) 🔴
-- Virtual Machine (c/C++) 🔴
+- ~~Text editor (c/c++)~~ 🔴
+- ~~Virtual Machine (c/C++)~~ 🔴
 - Compiler golang + QBE 🟡
 
 🟢 = Done
